@@ -27,7 +27,7 @@ I'm a bilingual (English and French) IT professional with hands-on experience in
 ## 🏅 Certifications & Professional Development
 
 - **Cisco Certified Network Associate (CCNA 200-301)**
-- **Cisco CCNP Enterprise Core (ENCOR 350-401) – Exam Passed**
+- **Cisco CCNP Enterprise Core (ENCOR 350-401)**
 - **Google Cybersecurity Professional Certificate**
 - **AWS Solutions Architect – Associate – In Preparation**
 
