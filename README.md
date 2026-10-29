@@ -2,7 +2,7 @@
 # Hi there, I'm Germain Daakpo Amouzou 👋
 
 <p align="center">
-  <strong>IT Infrastructure & Networking | Cybersecurity | AWS Cloud | Software Development</strong>
+  <strong>IT Infrastructure & Networking | Cybersecurity | AWS Cloud </strong>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an IT and software development enthusiast based in Montréal, Canada, with hands-on experience in network support and a strong interest in cybersecurity, cloud infrastructure, and secure systems.
+I'm a bilingual (English and French) IT professional with hands-on experience in network administration, IT infrastructure, and technical support, specializing in networking and cybersecurity. My technical background includes Cisco networking technologies, network security, cloud infrastructure, and IT systems administration. I'm passionate about protecting digital environments, identifying security threats, strengthening network defenses, and implementing secure, reliable IT solutions. I continuously expand my expertise in Security Operations (SOC), threat detection, incident response, cloud security, and cybersecurity best practices.
 
 - 🔐 Building practical cybersecurity projects involving phishing detection, security monitoring, and incident response.
 - 🌐 Networking background with **CCNA** and **CCNP ENCOR (350-401)**.
