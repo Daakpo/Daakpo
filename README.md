@@ -71,7 +71,7 @@ A cybersecurity project exploring homograph phishing, deceptive domains, and sec
 
 **Focus:** Python, phishing detection, risk assessment, Streamlit SOC dashboard.
 
-**Status:** In development.
+**Status:** Done.
 
 ### 🛡️ CyberSOC: Incident Zero
 An interactive cybersecurity simulation combining SOC investigation workflows with game development.
